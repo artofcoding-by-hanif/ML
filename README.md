@@ -7,3 +7,4 @@
 - Grid Search Tuning (Hyperparamater Tuning)
 - L1 and L2 Regularization
 - K-Nearest Neighbors (KNN) algorithm
+- Principal Component Analysis (PCA)
