@@ -5,3 +5,4 @@
 - K-Fold Cross validation
 - Naive Bayes Classifier
 - Grid Search Tuning (Hyperparamater Tuning)
+- L1 and L2 Regularization
