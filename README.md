@@ -10,3 +10,6 @@
 - Principal Component Analysis (PCA)
 - Linear Regression
 - Gradient Descent and Lost function
+- One Hot Encoding
+- Logistic Regression
+- Decision Tree
