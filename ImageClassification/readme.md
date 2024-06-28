@@ -6,3 +6,8 @@
    3. fatkun - Chrome exxtension
    4. Buy from vendors
 2. Data cleaning
+   1. Automated
+   2. Manual
+3. Future Engineering
+   1. Wavlet Transform
+4. Training Model
